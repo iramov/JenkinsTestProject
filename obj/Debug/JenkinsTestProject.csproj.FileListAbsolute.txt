@@ -1,0 +1,6 @@
+c:\users\iliyan\documents\visual studio 2013\Projects\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.exe.config
+c:\users\iliyan\documents\visual studio 2013\Projects\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.csprojResolveAssemblyReference.cache
+c:\users\iliyan\documents\visual studio 2013\Projects\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.pdb
